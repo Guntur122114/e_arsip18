@@ -1,4 +1,4 @@
-# Aplikasi berbasis Web Based Manajemen Surat : Project KKN di Desa Kranggen
+# Aplikasi berbasis Web Based Manajemen Surat
 
 Fitur-fitur aplikasi
 Aplikasi manajemen surat menyurat ini memiliki beberapa fitur, antara lain:
